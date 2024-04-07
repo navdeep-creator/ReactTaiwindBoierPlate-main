@@ -1,0 +1,17 @@
+
+
+
+.cardimg {
+    float: left;
+    width:  100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+
+.heroimgstyle{
+
+    width:100%;
+    height: 270px;
+    /* object-fit: cover; */
+}
